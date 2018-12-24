@@ -1,11 +1,10 @@
 # <center>Predicting Cancer metastates </center>
 
-##  <center> Project for Applied Machine Learning Class </center>
 
 ## The Problem
 
-### Dataset: Biopsy images at 8 level(0-7) magnification, with corresponding masks
-### Goal: Assisting doctors by detecting regions that likely have metastatis (at level 7)
+#### Dataset: Biopsy images at 8 level(0-7) magnification, with corresponding masks
+#### Goal: Assisting doctors by detecting regions that likely have metastatis (at level 7)
 
 ## Methodology(compelte work done on google colab):
 
