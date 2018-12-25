@@ -36,3 +36,8 @@
 ## Model Results (test accuracy, precision, recall, roc auc)
 * **VGG: 90%, 87%, 87%, 0.956
 * **Inception: 84%, 80%, 75%, 0.905 
+
+## Useful links
+ * **Sample data:** https://drive.google.com/drive/folders/1rwWL8zU9v0M27BtQKI52bF6bVLW82RL5
+ * **Youtube Video:** https://youtu.be/eftMWQRCPRg
+ * **Research Paper:** https://arxiv.org/pdf/1703.02442.pdf
